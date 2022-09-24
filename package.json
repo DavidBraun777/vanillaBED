@@ -2,8 +2,11 @@
   "name": "vanillabed",
   "version": "1.0.0",
   "description": "This is a demo nodejs backend application",
+  "type": "module",
   "main": "app.js",
   "scripts": {
+    "start": "babel-node ./app.js",
+    "build": "echo Build testing, All Good!",
     "test": "jest"
   },
   "repository": {
