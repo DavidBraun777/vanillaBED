@@ -1,0 +1,25 @@
+{
+  "name": "vanillabed",
+  "version": "1.0.0",
+  "description": "This is a demo nodejs backend application",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidBraun777/vanillaBED.git"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "express",
+    "babel"
+  ],
+  "author": "David Braun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidBraun777/vanillaBED/issues"
+  },
+  "homepage": "https://github.com/DavidBraun777/vanillaBED#readme"
+}
