@@ -13,6 +13,8 @@ npm-debug.log
 README-secret.md
 # github related files
 .github/
+# ignore testing out Fleet by JetBrains
+.fleet/
 # Build and Release Folders
 bin-debug/
 bin-release/
