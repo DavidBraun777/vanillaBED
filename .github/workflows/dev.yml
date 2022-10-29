@@ -50,5 +50,3 @@ jobs:
       - name: build, test & run
         run: |
           npm run build
-          npm run test
-          npm run start
