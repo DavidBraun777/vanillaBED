@@ -1,5 +1,3 @@
-# vanillaBEYk
+# vanillaBED
 
 This is a demo project
-
-more info...
