@@ -8,11 +8,8 @@ npm-debug.log
 .git
 .cache
 # ignore all markdown files (md) beside all README*.md other than README-secret.md
-*.md
 !README*.md
 README-secret.md
-# github related files
-.github/
 # Build and Release Folders
 bin-debug/
 bin-release/
