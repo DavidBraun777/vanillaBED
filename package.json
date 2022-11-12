@@ -1,5 +1,5 @@
 {
-  "name": "vanillabeyk",
+  "name": "davidbraun",
   "version": "1.0.0",
   "description": "demo nodejs backend application",
   "type": "module",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kirillrakitin/vanillaBEYk.git"
+    "url": "git+https://github.com/davidbraun/nodejs-vanillabed.git"
   },
   "keywords": [
     "node",
@@ -19,12 +19,12 @@
     "express",
     "babel"
   ],
-  "author": "Kirill Rakitin",
+  "author": "David Braun",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kirillrakitin/vanillaBEYk/issues"
+    "url": "https://github.com/davidbraun/nodejs-vanillabed/issues"
   },
-  "homepage": "https://github.com/kirillrakitin/vanillaBEYk#readme",
+  "homepage": "https://github.com/davidbraun/nodejs-vanillabed#readme",
   "dependencies": {
     "babel-cli": "^6.26.0",
     "babel-loader": "^8.2.5",
