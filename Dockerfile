@@ -37,7 +37,7 @@ RUN npm ci --only=production
 # Bundle app source
 COPY . /app
 
-EXPOSE 4000
+EXPOSE 30002
 # port is separate from the one that is in nodejs
 
 CMD [ "babel-node", "app.js" ]
